@@ -73,7 +73,7 @@ flutter run
 Setelah repository dibuat, masukkan link GitHub di bagian ini.
 
 ```text
-https://github.com/USERNAME/PAM_IFB5A_FAZARIZALANNAFI_2411100
+https://github.com/bobcloud-rider/PAM_IFB5A_2411100
 ```
 
 ## Catatan
